@@ -2,7 +2,7 @@
 
 ### Projeto
 
-O intuito deste projeto é o desenvolvimento de um modelo de machine learning para classificação automatica de chamados do suporte técnico entre as classes de chamado de equipamento ou chamado de sistemas.
+O intuito deste projeto é o desenvolvimento de um modelo de machine learning para classificação automática de chamados do suporte técnico entre as classes de chamado de equipamento ou chamado de sistemas.
 
 ### Desenvolvimento
 
